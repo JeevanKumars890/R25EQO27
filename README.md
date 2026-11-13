@@ -6,3 +6,6 @@ this respository is where i will practice git and github and built my portfolio.
 Learning Python.
 Interested in cloud computing 
 Goal : contribute to open soure 
+
+## Projects
+Hello world program in c.
